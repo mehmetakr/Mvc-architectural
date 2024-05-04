@@ -1,0 +1,158 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Mehmet",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yöntirim??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "2",
+      "user": "Ali",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "3",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React123",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "Ahmet"
+    },
+    {
+      "id": "4",
+      "date": "2023-09-11T19:59:57.523Z",
+      "title": "MVVM Nedir?",
+      "text": "Nası l oluyor\n",
+      "user": "Mehmet"
+    },
+    {
+      "id": "5",
+      "date": "2023-09-11T20:00:15.908Z",
+      "title": "React ile proje ",
+      "text": "React ile proje  nasıl geliştirilir????",
+      "user": "Ali"
+    },
+    {
+      "id": "6",
+      "date": "2023-10-13T17:37:38.872Z",
+      "title": "1234",
+      "text": "13123",
+      "user": "deneme"
+    },
+    {
+      "id": "7",
+      "date": "2023-10-13T18:57:07.230Z",
+      "user": "dededed",
+      "title": "dedededed",
+      "text": "dededede"
+    },
+    {
+      "id": "8",
+      "date": "2023-10-13T19:06:27.047Z",
+      "user": "asdasd",
+      "title": "asdasdasd",
+      "text": "asdasdasd"
+    },
+    {
+      "id": "9",
+      "date": "2023-10-13T19:52:01.633Z",
+      "user": "Hasan",
+      "title": "MVC denem1",
+      "text": "deneme11"
+    },
+    {
+      "id": "10",
+      "date": "2023-10-13T19:52:19.984Z",
+      "user": "Hasan",
+      "title": "MVCC",
+      "text": "deneme222"
+    },
+    {
+      "id": "11",
+      "date": "2023-10-13T19:52:35.275Z",
+      "user": "Ayşe",
+      "title": "MVC ",
+      "text": "deneme333"
+    },
+    {
+      "id": "12",
+      "date": "2023-10-18T09:02:16.095Z",
+      "user": "ömer",
+      "title": "mvc",
+      "text": "react\n"
+    },
+    {
+      "id": "13",
+      "date": "2023-10-18T09:26:22.177Z",
+      "user": "Ömer",
+      "title": "React MVC ",
+      "text": "MVC(Model View Controller)"
+    },
+    {
+      "id": "14",
+      "date": "2024-01-01T10:56:10.730Z",
+      "user": "asd",
+      "title": "asd",
+      "text": "asd"
+    },
+    {
+      "id": "15",
+      "date": "2024-01-01T11:26:30.223Z",
+      "user": "Mustafa",
+      "title": "Mvc yapısı öğrenme",
+      "text": "Mcv mimarisine geçişteki aşamalar"
+    },
+    {
+      "id": "16",
+      "date": "2024-01-01T11:27:14.867Z",
+      "user": "Leyla",
+      "title": "Mvc mimarisi öğrenme",
+      "text": "Mcv mimarisine geçişteki aşamalar"
+    },
+    {
+      "id": "17",
+      "date": "2024-01-01T11:27:37.130Z",
+      "user": "asdasd",
+      "title": "asdasd",
+      "text": "asdas"
+    },
+    {
+      "id": "18",
+      "date": "2024-01-01T12:01:55.455Z",
+      "user": "res",
+      "title": "res",
+      "text": "res"
+    },
+    {
+      "id": "22b8d6a7-c6c3-43de-9087-419798be8e22",
+      "date": "2024-05-01T14:57:28.848Z",
+      "user": "",
+      "title": "",
+      "text": ""
+    },
+    {
+      "id": "22b8d6a7-c6c3-43de-9087-419798be8e22",
+      "date": "2024-05-01T14:57:28.848Z",
+      "user": "mehmet",
+      "title": "fizikte gravity",
+      "text": "graviton"
+    },
+    {
+      "id": "7c2e43dd-6efc-4684-80a3-44ab7d428ecb",
+      "date": "2024-05-01T14:58:09.459Z",
+      "user": "mehmet ",
+      "title": "fizik",
+      "text": "graviton"
+    },
+    {
+      "id": "32b080ef-3b59-46c4-b8f5-b6431992b6e2",
+      "date": "2024-05-01T15:05:27.942Z",
+      "user": "",
+      "title": "",
+      "text": ""
+    }
+  ]
+}

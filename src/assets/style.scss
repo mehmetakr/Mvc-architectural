@@ -1,0 +1,245 @@
+body {
+
+
+    background-color: gray;
+    color: #000;
+}
+
+
+* {
+
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+
+
+    background-color: red($color: #fc2323);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+
+    a {
+
+
+        color: gold;
+        text-decoration: none;
+
+    }
+
+    .active {
+
+        display: none;
+    }
+}
+
+
+// list sayfası 
+
+.container {
+
+    width: 70vw;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .post {
+
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        background-color: #000;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        box-shadow: 2px 2px 40px rgba(0, 0, 0, 0.37);
+
+        .info {
+
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+
+            p {
+
+                color: gold;
+                cursor: pointer;
+            }
+        }
+
+
+    }
+}
+
+/* @media (min-width:750px) {
+
+    .container {
+
+        width: 100vh;
+
+    }
+} */
+
+//  Ekleme sayfası 
+
+form {
+    width: 70vw; // tarayıcının  % 70 i alınır burada  
+
+    padding: 50px;
+    margin: 100px auto;
+    max-width: 980px;
+    min-height: 78vh;
+    flex-direction: column;
+    color: white;
+    border-radius: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+
+    h2 {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    fieldset {
+
+
+        border: none;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+
+        input {
+
+            border-radius: 10px;
+            font-size: 15px;
+            padding: 10px;
+            border: none;
+            outline: none;
+        }
+    }
+
+    button {
+
+        background-color: gold;
+        font-size: 25px;
+        border-radius: 20px;
+    }
+
+    textarea {
+
+        resize: vertical;
+        border: none;
+        outline: none;
+        padding: 10px;
+
+    }
+}
+
+
+// popup stillendirmesi 
+
+
+
+.wrapper {
+    background-color: rgba(138, 148, 127, 0.5);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    display: grid;
+    left: 0;
+    place-items: center;
+    top: 0;
+
+    .popup {
+
+        background-color: antiquewhite;
+        padding: 30px;
+        height: 80%;
+        width: 70%;
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+
+    }
+
+
+    .btn-wrap {
+
+        display: flex;
+        justify-content: space-between;
+        font-size: 23px;
+
+        span {
+
+            color: red;
+
+        }
+
+        button {
+
+            border: none;
+            background-color: #fc2323;
+            padding: 10px 20px 10px 20px;
+            border-radius: 10px;
+            cursor: pointer;
+            color: white;
+
+            button:hover {
+
+                background-color: #4bb63d;
+            }
+        }
+    }
+}
+
+
+// header   
+.header {
+
+
+
+    display: flex;
+    align-items: center;
+    border: none;
+    text-decoration: none;
+    justify-content: space-between;
+    background-color: #e4de8a;
+
+    h1 {
+
+
+        margin: 20px;
+    }
+
+    .link {
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 20px;
+        text-decoration: none;
+        background-color: red($color: #dd2424);
+
+    .gel{
+
+            margin:39px;
+padding: 10px;
+border-radius: 10px;
+text-decoration: none;
+color: white;
+background-color: #fc2323;
+        }
+    }
+}
